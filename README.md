@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @4R1ST0T3L3S
-- 👀 I’m interested in become a programming project coordinator
-- 🌱 I’m currently learning Full-Stack Developer
-- 💞️ I’m looking to collaborate on proyects that reflect a social purpose
-- 📫 How to reach me: 4R1ST0T3L3S@proton.me
-- ⚡ Fun fact: Powerlifter and Gymbro like Aristoteles, who said that math and gym couldn't be friends?
+## Javier Bou Martinez
 
-<!---
-4R1ST0T3L3S/4R1ST0T3L3S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Construyo software para powerlifting. Entrenador y atleta antes que programador,
+que es de donde salen los problemas que intento resolver.
+
+### En lo que trabajo
+
+**[Anvil Strength](https://github.com/4R1ST0T3L3S/anvil-strength)** · [anvilstrength.es](https://anvilstrength.es)
+PWA de gestión y entrenamiento para clubes de fuerza. Entrenador y atleta en el
+mismo sitio: planificación de mesociclos, registro de series con RPE/RIR,
+calculadoras de 1RM y de discos, ranking del club. React + TypeScript + Supabase,
+con versiones empaquetadas para Windows y Android.
+
+**VISION** *(privado)*
+Entrenamiento basado en velocidad sin encoder: mide la velocidad de la barra a
+partir del vídeo de un móvil. Un encoder lineal cuesta varios cientos de euros;
+una cámara la tiene todo el mundo. Motor de visión en Python sobre una base de
+código React que se despliega en escritorio, Android y navegador.
+
+### Con qué
+
+TypeScript · React · Vite · Supabase / PostgreSQL · Electron · Capacitor · Python (OpenCV)
+
+### Dónde encontrarme
+
+[LinkedIn](https://www.linkedin.com/in/jotabou) · jotabou@protonmail.com
