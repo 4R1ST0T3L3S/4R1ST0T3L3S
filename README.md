@@ -11,12 +11,6 @@ mismo sitio: planificación de mesociclos, registro de series con RPE/RIR,
 calculadoras de 1RM y de discos, ranking del club. React + TypeScript + Supabase,
 con versiones empaquetadas para Windows y Android.
 
-**VISION** *(privado)*
-Entrenamiento basado en velocidad sin encoder: mide la velocidad de la barra a
-partir del vídeo de un móvil. Un encoder lineal cuesta varios cientos de euros;
-una cámara la tiene todo el mundo. Motor de visión en Python sobre una base de
-código React que se despliega en escritorio, Android y navegador.
-
 ### Con qué
 
 TypeScript · React · Vite · Supabase / PostgreSQL · Electron · Capacitor · Python (OpenCV)
